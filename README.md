@@ -1,0 +1,1 @@
+Tindog is a website designed to help dog owners find the perfect match for their beloved furry companions. Inspired by popular dating apps, Tindog brings together dog owners who are looking for playdates, friendships, or even love interests for their dogs. This project utilizes HTML, CSS, and Bootstrap to create an engaging and user-friendly experience for dog owners.
